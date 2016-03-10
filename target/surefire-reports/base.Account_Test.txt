@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
-Test set: base.MyInteger_Test
+Test set: base.Account_Test
 -------------------------------------------------------------------------------
-Tests run: 19, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.168 sec
+Tests run: 9, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.223 sec
